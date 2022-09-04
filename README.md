@@ -5,6 +5,11 @@ Climate Change, a highly debated topic across the globe, but do we really care a
 
 Objective and Intent of  project is Using Machine Learning  to detect pests that will harm Agriculture and Farming, cutting trees using audio analysis. Also predicting fire, greenhouse adaptation and plant growth.
 
+SDG 3: GOOD HEALTH AND WELL-BEING
+
+Using our device we have tried to make locality aware of all the disease carrying vectors present or breeding also we are able to save the crop as soon as we hear sound made by any pest, so it saves lots of efforts of farmer and makes them spray chemicals only when required, eat healthy.
+
+
 Solution Approach 
  how to build a device using TensorFlow and Artemis module to solve most of the problems faced by the rural or agricultural communities anywhere.The device uses Machine Learning algorithms to check overall plant health, extreme climate prediction and protection, auto-greenhouse adaptation and detecting deadly disease spreading vectors or illegal logging of forests using audio analysis.The project also demonstrates how we can have more insights for our farm just by collecting and utilizing the data got from our sensors. I got inspiration for making this project from news like Australian wildfires, Indian GDP falling down due to faulty agricultural practices and locust swarm which is damaging the crops in East Africa and many other nations veryrapidly, mosquitoes breeding at an alarmingrate,neglected tropicaldiseases, so I found a call within me as an active member of this innovative, committed community.
 
@@ -127,7 +132,4 @@ I don't have a 3D printer so I just took a plastic case to build my model, durin
 
 You can just set your device to whatever mode you want and wherever you want. I also wanted to implement moisture adaptation for my plants I will finish that too later.
 
-SDG 3: GOOD HEALTH AND WELL-BEING
-
-Using our device we have tried to make locality aware of all the disease carrying vectors present or breeding also we are able to save the crop as soon as we hear sound made by any pest, so it saves lots of efforts of farmer and makes them spray chemicals only when required, eat healthy.
 
