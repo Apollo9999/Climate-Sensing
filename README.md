@@ -1,7 +1,6 @@
 # Climate-Sensing
 
-Climate Change, a highly debated topic across the globe, but do we really care about it? We see politicians, scientists, researchers, philanthropists, conservationists and almost everyone blaming each other for every climate catastrophe occurring today. The real question is what climate change or change are we talking about?
-
+Climate Change, a highly debated topic across the globe, but do we really care about it? We see politicians, scientists, researchers, philanthropists, conservationists and almost everyone blaming each other for every climate catastrophe occurring today. The real question is what climate change  Impact will bring on the lives of Human beings 
 
 
 Objective and Intent of  project is Using Machine Learning  to detect pests that will harm Agriculture and Farming, cutting trees using audio analysis. Also predicting fire, greenhouse adaptation and plant growth.
