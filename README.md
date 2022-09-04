@@ -22,6 +22,14 @@ With increasing population a sustainable method of farming is important. Previou
 
 4)Predicting wildfires and adapting for extreme situations:
 
+Video details 
+
+https://drive.google.com/file/d/1OEfoMFtTheIGCdeBQ6xEllJ-eV2dYn05/view?usp=sharing
+
+
+Artemis Product Video
+
+https://www.youtube.com/watch?v=NKyA5y44-0E
 
 Audio Classification:
 Step 1: Collecting the required dataset for audio analysis:
