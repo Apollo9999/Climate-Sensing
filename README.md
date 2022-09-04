@@ -13,13 +13,30 @@ The important measure taken while making this project was collecting data effici
 
 Salient Features Included
 
-1)Farm Analysis With increasing population a sustainable method of farming is important. Previously we just used to play with sensors but now using Tensorflow we can not only sense but analyse, predict and take actions. Using all the collected data we will find abnormalities in crop growth, photosynthesis rate, extreme climate and need for smart green house adaptation. 
+1)FarmAnalysis With increasing population a sustainable method of farming is important. Previously we just used to play with sensors but now using Tensorflow we can not only sense but analyse, predict and take actions. Using all the collected data we will find abnormalities in crop growth, photosynthesis rate, extreme climate and need for smart green house adaptation. This step willstop the competition among the farmers forusing excess fertilizers, pesticides, insecticides to boost production. Using the correct farm analysis the machine would auto-suggest the farmer when to use the chemicals in his farm and thus save his money, efforts and degradation of environment. You can check this website for more problems faced by my country's agricultural community. 
 
-2) Detection of certain beneficial andharmful organisms using audio analysis :
+https://www.mckinsey.com/industries/agriculture/our-insights/harvesting-golden-opportunities-in-indian-agriculture
 
-3)Stopping deforestation :
 
-4)Predicting wildfires and adapting for extreme situations:
+ Detection of certain beneficial andharmful organisms using audio analysis :
+
+Flowers can hear buzzing bees—and it makes their nectar sweeter
+
+Honeybees are very important to us.
+Farmers are using lots of chemicals to boost their farm yield but we tend to forget that due to excessive use of those pesticides, insecticides and inorganic manures, cross pollinating agents, the arthropods( 90% of living organisms found on earth are insects) don't get attracted to those plants or otherwise die due to excessive chemical exposure and pollution. More than 2, 000 pollinating insects are extinct by now and only 500 are left to extinct if not protected.
+
+We also need to detect diseases in crops as early as possible to stop it from spreading in farm. To solve this problem I thought why not to tell farmer to use chemicals only if there are any bad growth patterns or harmful pests, nowadays even if there is no disease farmers uselessly spray chemicals and kill useful insects like honeybees. It will also detect for certain pollinating agents and how frequently they are there on fields, based on the observation it can assist farmer in planting ornamental plants, also it can detect big animals who destroy the crop just by their voice and frequency. For now I trained my device to recognise sounds of several breeds of mosquitoes like aedes, culex and anophleles also honeybees. I will also add crickets, locust and some other pests too since I have a very small dataset for it. The point here is that on the first occurrence of any sign of pest the farmer or government can take action before it gets spread everywhere, also the user gets to know exactly from which device was the signal received. Read this article https://www.aljazeera.com/news/2020/01/200125090150459.html
+
+If the above problem is not solved then the whole world will be in the midst of food crisis. "East Africa locust outbreak sparks calls for international help"
+
+3) Stopping deforestation :
+
+There are many illegal cutting of trees so my device would make the concerned authorities aware of the cutting of trees using sound analysis technique, particularly it would detect the tone and frequency of wood cutting tools being operated.
+
+4) Predicting wildfires and adapting for extreme situations:
+
+If we are able to analyse the data coming from environmental sensors and gas sensors we can easily predict for wild fires also the device can be made to learn to take action in case if the plant does not get optimum temperature and light so the device can activate greenhouse mode.
+
 
 Video details 
 
