@@ -12,9 +12,8 @@ The important measure taken while making this project was collecting data effici
 
 
 Salient Features Included
-1)Farm Analysis:
 
-With increasing population a sustainable method of farming is important. Previously we just used to play with sensors but now using Tensorflow we can not only sense but analyse, predict and take actions. Using all the collected data we will find abnormalities in crop growth, photosynthesis rate, extreme climate and need for smart green house adaptation. 
+1)Farm Analysis With increasing population a sustainable method of farming is important. Previously we just used to play with sensors but now using Tensorflow we can not only sense but analyse, predict and take actions. Using all the collected data we will find abnormalities in crop growth, photosynthesis rate, extreme climate and need for smart green house adaptation. 
 
 2) Detection of certain beneficial andharmful organisms using audio analysis :
 
